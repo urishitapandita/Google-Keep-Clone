@@ -13,6 +13,7 @@
 
 # Future Work ✏️
 * To improve the UI
+* Hosting the website
 
 # Show your support 
 
